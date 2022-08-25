@@ -16,4 +16,5 @@ const sortByBits = function (arr) {
     })
 }
 
-console.log(sortByBits([0, 1, 2, 3, 4, 5, 6, 7, 8]))
+console.log(sortByBits([0, 1, 2, 3, 4, 5, 6, 7, 8]));
+// the output should look like this [0,1,2,4,8,3,5,6,7]
